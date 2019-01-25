@@ -1,0 +1,15 @@
+﻿  main.cpp
+e:\gal\שולחן עבודה\forclass3d\forclass3d\inputmanager.h(77): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\gal\שולחן עבודה\forclass3d\forclass3d\inputmanager.h(113): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\gal\שולחן עבודה\forclass3d\forclass3d\inputmanager.h(119): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\gal\שולחן עבודה\forclass3d\forclass3d\inputmanager.h(125): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\gal\שולחן עבודה\forclass3d\forclass3d\inputmanager.h(131): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\gal\שולחן עבודה\forclass3d\forclass3d\main.cpp(65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\gal\שולחן עבודה\forclass3d\forclass3d\main.cpp(66): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\gal\שולחן עבודה\forclass3d\forclass3d\main.cpp(67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\gal\שולחן עבודה\forclass3d\forclass3d\main.cpp(90): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\gal\שולחן עבודה\forclass3d\forclass3d\main.cpp(91): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\gal\שולחן עבודה\forclass3d\forclass3d\main.cpp(92): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\gal\שולחן עבודה\forclass3d\forclass3d\main.cpp(103): warning C4305: '=': truncation from 'double' to 'float'
+e:\gal\שולחן עבודה\forclass3d\forclass3d\main.cpp(109): warning C4305: '=': truncation from 'double' to 'float'
+  forClass3D.vcxproj -> E:\gal\שולחן עבודה\forClass3D\Debug\forClass3D.exe
